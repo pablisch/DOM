@@ -1,4 +1,1 @@
-alert("Hello");
-
-
-
+document.query
